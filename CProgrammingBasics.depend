@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1722114500 source:c:\users\maxi\desktop\c\cprogrammingbasics\functions.c
+	"Functions.h"
+
+1722005705 source:c:\users\maxi\desktop\c\cprogrammingbasics\main.c
+	"Functions.h"
+
+1722113650 c:\users\maxi\desktop\c\cprogrammingbasics\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1722114524 source:c:\users\maxi\desktop\operation portfolio\_projects\c\cprogrammingbasics - [done]\functions.c
+	"Functions.h"
+
+1722113650 c:\users\maxi\desktop\operation portfolio\_projects\c\cprogrammingbasics - [done]\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1722005705 source:c:\users\maxi\desktop\operation portfolio\_projects\c\cprogrammingbasics - [done]\main.c
+	"Functions.h"
+
